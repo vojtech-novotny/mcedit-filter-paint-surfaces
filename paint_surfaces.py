@@ -1,4 +1,6 @@
-# Created by Acaran 2020
+# Paint Surfaces
+# Created by Acaran (2020)
+# acaran101.wordpress.com
 
 displayName = "Paint Surfaces"
 
